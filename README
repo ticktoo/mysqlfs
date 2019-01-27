@@ -1,4 +1,6 @@
-                      mysqlfs - MySQL FileSystem
+# !! THIS IS NOT PRODUCTION-SAFE - HANDLE WITH CARE !!
+
+mysqlfs - MySQL FileSystem
 
 MySQLfs is a FUSE filesystem driver which stores files in a MySQL database.
 
