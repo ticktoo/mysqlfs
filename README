@@ -19,7 +19,7 @@ MySQLfs is a FUSE filesystem driver which stores files in a MySQL database.
   - mysql-devel libs
 
   On Debian 9 you can install requirements with:
-  #> sudo apt install -y cmake g++ libfuse-dev libmariadbclient-dev-compat
+  #> sudo apt install -y cmake g++ libfuse-dev libmysqlclient-dev mysql-client
 
   Run the following commands:
   #> cmake .
